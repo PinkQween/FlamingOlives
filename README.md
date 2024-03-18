@@ -1,22 +1,26 @@
 
 # Olive - Web developer
-<p align="center">
-<img alt="Profile picture" src="https://c4.wallpaperflare.com/wallpaper/640/145/78/anime-girl-headphones-short-hair-playing-games-wallpaper-preview.jpg" width="1000" />
-</p>
 
 #
 
-<!-- ![snake gif](https://github.com/PinkQween/PinkQween/blob/output/github-contribution-grid-snake.gif) --!>
+<div class="container" style="display: flex;">
 
-<p align="center">
-<img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=pinkQween&theme=radical&rank=-UNKNOWN,-B,-C,-UNKOWN&column=-1&margin-w=5&margin-h=5">
-</p>
+<div class="left" style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
+
+<div style="display: flex; justify-content: space-between;">
+    <div>
+        - ![Trophies](https://github-profile-trophy.vercel.app/?username=FlamingOlives&theme=radical)
+        - ![FlamingOlives's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FlamingOlives&show_icons=true&theme=radical)
+        - ![FlamingOlives's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlamingOlives&theme=radical&layout=compact)
+    </div>
+    <div>
+        - ![Profile picture](https://avatars.githubusercontent.com/u/141564336?v=4)
+    </div>
+</div>
+
+
 
 Welcome to my GitHub profile! I'm PinkQween or Hanna Skairipa, I'm a full stack developer usually working with JavaScript or TypeScript. Right now my main project is Diskairipa a better version of Discord coded from complete scratch. I am using Typescript for both the ends of the app and have everything done like that for security and allows for bots to also work easily. I have a passion for creating for simple and easy to use apps that are complex making my users have a enjoyable life!
-
-<img alt="PinkQweens's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=PinkQween&show_icons=true&theme=radical">
-
-<img alt="PinkQweens's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PinkQween&theme=radical&layout=compact">
 
 <!-- ## Projects
 
