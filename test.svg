@@ -1,0 +1,18 @@
+<svg width="1000" height="600" xmlns="http://www.w3.org/2000/svg">
+    <g class="container">
+        <g class="left-section">
+            <image
+                xlink:href="https://github-profile-trophy.vercel.app/?username=FlamingOlives&theme=radical"
+                x="0" y="0" alt="Image 1" />
+            <image
+                xlink:href="https://github-readme-stats.vercel.app/api?username=FlamingOlives&show_icons=true&theme=radical"
+                x="0" y="150" alt="Image 2" />
+            <image
+                xlink:href="https://github-readme-stats.vercel.app/api/top-langs/?username=FlamingOlives&theme=radical&layout=compact"
+                x="0" y="400" alt="Image 3" />
+        </g>
+        <g class="right-section">
+            <image xlink:href="https://avatars.githubusercontent.com/u/141564336?v=4" x="500" y="150" alt="Image 4" />
+        </g>
+    </g>
+</svg>
