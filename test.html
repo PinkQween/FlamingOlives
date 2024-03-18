@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Layout</title>
+    <style>
+        body,
+        html {
+            margin: 0;
+            padding: 0;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .container {
+            display: flex;
+            flex-direction: row;
+            justify-content: center;
+            align-items: center;
+            height: 100%;
+        }
+
+        .left-section {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            width: 50%;
+            height: 100%;
+        }
+
+        .right-section {
+            width: 50%;
+            height: 100%;
+        }
+
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="left-section">
+            <img src="https://github-profile-trophy.vercel.app/?username=FlamingOlives&theme=radical" alt="Image 1">
+            <img src="https://github-readme-stats.vercel.app/api?username=FlamingOlives&show_icons=true&theme=radical" alt="Image 2">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlamingOlives&theme=radical&layout=compact" alt="Image 3">
+        </div>
+        <div class="right-section">
+            <img src="https://avatars.githubusercontent.com/u/141564336?v=4" alt="Image 4">
+        </div>
+    </div>
+</body>
+
+</html>
