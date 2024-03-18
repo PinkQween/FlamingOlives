@@ -3,22 +3,7 @@
 
 #
 
-<div class="container" style="display: flex;">
-
-<div class="left" style="flex: 1; display: flex; flex-direction: column; justify-content: center;">
-
-<div style="display: flex; justify-content: space-between;">
-    <div>
-        - ![Trophies](https://github-profile-trophy.vercel.app/?username=FlamingOlives&theme=radical)
-        - ![FlamingOlives's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FlamingOlives&show_icons=true&theme=radical)
-        - ![FlamingOlives's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FlamingOlives&theme=radical&layout=compact)
-    </div>
-    <div>
-        - ![Profile picture](https://avatars.githubusercontent.com/u/141564336?v=4)
-    </div>
-</div>
-
-
+<img src="https://pinkqween.github.io/FlamingOlives/test.svg" />
 
 Welcome to my GitHub profile! I'm PinkQween or Hanna Skairipa, I'm a full stack developer usually working with JavaScript or TypeScript. Right now my main project is Diskairipa a better version of Discord coded from complete scratch. I am using Typescript for both the ends of the app and have everything done like that for security and allows for bots to also work easily. I have a passion for creating for simple and easy to use apps that are complex making my users have a enjoyable life!
 
